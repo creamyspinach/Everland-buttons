@@ -1,0 +1,8 @@
+.button_accordeon{
+    background-color: #E7F0FF;
+    border-radius: 20px;
+}
+
+.button_accordeon:hover{
+    background-color: #0C4BA0;
+}

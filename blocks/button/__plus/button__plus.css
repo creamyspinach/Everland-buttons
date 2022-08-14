@@ -1,6 +1,15 @@
 .button__plus{
-    background-image: url(../../../images/button__plus.svg);
+    background-image: url(../../../images/button__plus_blue.svg);
     width: 17px;
     height: 17px;
     background-size: 17px;
+    transition: all 200ms ease;
+}
+
+.button_accordeon:hover .button__plus{
+    background-image: url(../../../images/button__pus_white.svg);
+}
+
+.button_accordeon:active .button__plus{
+    transform: rotate(45deg);
 }

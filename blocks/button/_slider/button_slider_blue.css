@@ -1,3 +1,11 @@
 .button_slider_blue{
     background-color: #0C4BA0;
 }
+
+.button_slider_blue:hover{
+    background-color: #4183DC;
+}
+
+.button_slider_blue:active{
+    background-color: #00275C;
+}
