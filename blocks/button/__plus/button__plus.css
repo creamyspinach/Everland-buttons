@@ -1,0 +1,6 @@
+.button__plus{
+    background-image: url(../../../images/button__plus.svg);
+    width: 17px;
+    height: 17px;
+    background-size: 17px;
+}
