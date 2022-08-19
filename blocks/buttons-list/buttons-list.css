@@ -1,5 +1,7 @@
 .buttons-list{
-    display: flex;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, 1fr);
     border: 1px dashed #7B61FF;
     border-radius: 5px;
     justify-content: space-around;
